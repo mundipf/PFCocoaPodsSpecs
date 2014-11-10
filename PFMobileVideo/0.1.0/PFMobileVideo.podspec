@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "PFMobileVideo"
-  s.version      = "0.1"
+  s.version      = "0.1.0"
   s.summary      = "An iOS plugin video display framework for use with Pfizer's corporate Brightcove account."
 
   s.description  = <<-DESC
